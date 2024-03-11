@@ -1,0 +1,4 @@
+{   
+    "model": "base_chat_model",
+    "task": "bookmark_classification"
+}
